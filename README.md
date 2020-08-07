@@ -6,6 +6,7 @@ This repository contains the official implementation for the models described in
 
 The code is written in Python 3.7.7 and has the following dependencies for the training and evaluation notebooks:
 * tensorflow==2.1.0
+* tensorflow-addons==0.8.2
 * tqdm==4.46.0
 * seaborn==0.10.1
 * scipy==1.4.1
