@@ -1,6 +1,6 @@
 # Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks
 
-This repository contains the official implementation for the models described in [Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks](https://research.vu.nl/en/publications/interpretable-multivariate-time-series-forecasting-with-temporal-).
+This repository contains the official implementation for the models described in [Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks](https://research.vu.nl/en/publications/interpretable-multivariate-time-series-forecasting-with-temporal-). These include a Temporal Convolutional Network (TCN), as well as the proposed Temporal Attention Convolutional Network (TACN) that combines a TCN with an attention mechanism.
 
 If you find this work helpful in your research, consider citing our paper:
 
