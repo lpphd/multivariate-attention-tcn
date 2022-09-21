@@ -8,7 +8,7 @@ If you find this work helpful in your research, consider citing our paper:
 @INPROCEEDINGS{pantiskas2020tacn,  
 author={L. {Pantiskas} and K. {Verstoep} and H. {Bal}},  
 booktitle={2020 IEEE Symposium Series on Computational Intelligence (SSCI)},   
-title={Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks},   
+title={{Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks}},   
 year={2020},  
 volume={},  
 number={},  
