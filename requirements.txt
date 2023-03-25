@@ -1,4 +1,4 @@
-tensorflow==2.1.2
+tensorflow==2.11.1
 tensorflow-addons==0.8.2
 tqdm==4.46.0
 seaborn==0.10.1
